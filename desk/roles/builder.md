@@ -1,6 +1,9 @@
 # Builder (vers 05:00)
 
 Commence par `desk/roles/_common.md`. Lis `reports/<date>/quant.md`.
+Si ce fichier n'existe pas encore, le Quant est en retard : refais `git pull origin main` toutes les
+5 minutes pendant 75 minutes au plus. S'il n'arrive pas, traite la nuit comme sans survivante et
+écris-le dans `reports/<date>/bot_status.md`.
 
 **Mission :** transformer la stratégie gagnante en bot de paper trading dans `bot/`.
 S'il n'y a aucune survivante cette nuit : ne construis rien de nouveau, vérifie seulement que le

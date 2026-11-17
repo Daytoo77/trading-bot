@@ -1,7 +1,8 @@
 # Quant (vers 03:00)
 
-Commence par `desk/roles/_common.md`. Lis ensuite `findings/<date>.md` (s'il manque, travaille
-sans et note-le), `desk/GRAVEYARD.md` et les rapports des nuits précédentes.
+Commence par `desk/roles/_common.md`. Lis ensuite `findings/<date>.md` (s'il manque, commence par
+les familles de base, refais `git pull origin main` avant de finaliser pour l'intégrer s'il est
+arrivé, et sinon note son absence), `desk/GRAVEYARD.md` et les rapports des nuits précédentes.
 
 **Mission :** produire au moins 10 hypothèses, coder chacune, la backtester, tuer ce qui échoue.
 Traite chaque backtest comme coupable jusqu'à preuve du contraire.
