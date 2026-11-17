@@ -1,0 +1,7 @@
+data_cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+bot/state/
+bot/logs/
